@@ -1,6 +1,9 @@
 <?php
 
-	echo 'hello world!';
+	$aa = 'hello world!'; 
+	
+	
+	echo $aa;
 ?>
 
 
